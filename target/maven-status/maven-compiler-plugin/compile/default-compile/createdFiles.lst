@@ -1,0 +1,8 @@
+com\simulador\backend\model\user\Role.class
+com\simulador\backend\BackendApplication.class
+com\simulador\backend\service\JwtTokenService.class
+com\simulador\backend\model\user\User.class
+com\simulador\backend\config\UserAuthenticationFilter.class
+com\simulador\backend\config\SecurityConfiguration.class
+com\simulador\backend\model\user\RoleName.class
+com\simulador\backend\repository\UserRepository.class
